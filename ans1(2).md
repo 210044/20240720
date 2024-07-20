@@ -1,5 +1,4 @@
 ## 提示詞2 Chat GPT的回應
-ˋˋˋ
 #include <stdio.h>
 
 int main() {
@@ -15,4 +14,3 @@ int main() {
     
     return 0;
 }
-ˋˋˋ
