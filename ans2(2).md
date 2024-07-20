@@ -1,4 +1,5 @@
 ## 提示詞2 Gemini的回應
+
 #include <stdio.h>
 
 int main() {
@@ -10,3 +11,4 @@ int main() {
   }
   return 0;
 }
+
