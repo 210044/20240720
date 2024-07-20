@@ -9,8 +9,6 @@
 - Google[GEMINI](https://gemini.google.com/app?hl=zh-TW)
 - Copilot 
 
-```
-
 ### [prompt提示詞1](prompt1.md)
 ```
 CIA TRIAD:Confidentiality, Integrity, and Availability
