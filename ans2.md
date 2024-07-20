@@ -1,5 +1,5 @@
 ## Copilot的回應
-、、、
+```
 第1頁：簡介
 CIA Triad 是資訊安全的核心概念，代表 Confidentiality（機密性）、Integrity（完整性） 和 Availability（可用性）。
 
@@ -38,4 +38,4 @@ CIA Triad 是資訊安全的核心概念，代表 Confidentiality（機密性）
 第10頁：總結
 關鍵點：CIA Triad是資訊安全的基石，必須全面考慮。
 建議：持續更新安全策略，定期進行安全審計。
-、、、
+```
